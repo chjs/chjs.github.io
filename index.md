@@ -3,6 +3,7 @@ layout: default
 title: JUNGSIK CHOI
 ---
 # JUNGSIK CHOI
+---
 ## 🎓 Biography
 My name is Jungsik Choi (Korean: 최정식). I am currently working as a system expert at the System Research Center of the [Samsung Advanced Institute of Technology (SAIT)](https://www.sait.samsung.com/).
 I research new computer systems to maximize the performance of AI and HPC applications.
@@ -28,3 +29,5 @@ I received my Ph.D. in Electrical, Electronic, and Computer Engineering from [Su
 * [Memory mapping management method for nonvolatile main memory system, US10,185,654B2](https://patents.google.com/patent/US10185654B2/en)
 * [Method of handling page fault in nonvolatile main memory system,  US10,719,263B2](https://patents.google.com/patent/US10719263B2/en)
 * [Memory mapping method of nonvolatile memory system and system for providing the memory mapping method, US9,501,424B2](https://patents.google.com/patent/US9501424B2/en)
+---
+Last Updated Date: July 28, 2025
