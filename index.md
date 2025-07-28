@@ -5,10 +5,9 @@ title: JUNGSIK CHOI
 # JUNGSIK CHOI
 ---
 ## 🎓 Biography
-My name is Jungsik Choi (Korean: 최정식). I am currently working as a system expert at the System Research Center of the [Samsung Advanced Institute of Technology (SAIT)](https://www.sait.samsung.com/).
-I research new computer systems to maximize the performance of AI applications.
-To design the world-class AI systems, I am keenly interested in everything across the stack—from the microarchitecture level and operating systems to compilers, system software and AI applications.
-I received my Ph.D. in Electrical, Electronic, and Computer Engineering from [Sungkyunkwan University (SKKU)](https://www.skku.edu/eng/) in 2019.
+My name is Jungsik Choi (Korean: 최정식). I am a system expert at the System Research Center of [Samsung Advanced Institute of Technology (SAIT)](https://www.sait.samsung.com/), where I focus on designing next-generation computer systems to enhance the performance of AI applications.
+To build world-class AI systems, I take a holistic approach, exploring the entire computing stack—from microarchitecture and operating systems to compilers, system software, and AI workloads.
+I earned my Ph.D. in Electrical, Electronic, and Computer Engineering from [Sungkyunkwan University (SKKU)](https://www.skku.edu/eng/) in 2019.
 
 ## 📖 Publications
 ### Papers
