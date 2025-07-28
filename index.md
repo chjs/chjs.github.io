@@ -1,3 +1,6 @@
+---
+title: JUNGSIK CHOI
+---
 ## 🎓 Biography
 My name is Jungsik Choi (Korean: 최정식). I am currently working as a system expert at the System Research Center of the [Samsung Advanced Institute of Technology (SAIT)](https://www.sait.samsung.com/).
 I research new computer systems to maximize the performance of AI and HPC applications.
