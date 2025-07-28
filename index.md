@@ -10,6 +10,8 @@ I research new computer systems to maximize the performance of AI and HPC applic
 To design the world-class AI systems, I am keenly interested in everything across the stack—from the microarchitecture level and operating systems to compilers, system software and AI/HPC applications.
 I received my Ph.D. in Electrical, Electronic, and Computer Engineering from [Sungkyunkwan University (SKKU)](https://www.skku.edu/eng/) in 2019.
 
+<button type="button" class="btn btn-primary btn-xs">test</button>
+
 ## 📖 Publications
 ### Papers
 * Libpubl: exploiting persistent user buffers as logs for write atomicity, _HotStorage '21_ [<button type="button" class="btn btn-primary btn-xs">Link</button>](https://dl.acm.org/doi/10.1145/3465332.3470874) 
