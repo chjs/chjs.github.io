@@ -12,11 +12,11 @@ I received my Ph.D. in Electrical, Electronic, and Computer Engineering from [Su
 
 ## 📖 Publications
 ### Papers
-* Libpubl: exploiting persistent user buffers as logs for write atomicity, HotStorage '21
-* Libnvmmio: Reconstructing Software IO Path with Failure-Atomic Memory-Mapped Interface, USENIX ATC '20
-* Multithreaded double queuing for balanced CPU-GPU memory copying, SAC '19
-* Efficient Memory Mapped File I/O for In-Memory File Systems, HotStorage '17
-* In-memory file system with efficient swap support for mobile smart devices, IEEE Transactions on Consumer Electronics 62
+* [Libpubl: exploiting persistent user buffers as logs for write atomicity, HotStorage '21](https://dl.acm.org/doi/10.1145/3465332.3470874)
+* [Libnvmmio: Reconstructing Software IO Path with Failure-Atomic Memory-Mapped Interface, USENIX ATC '20](https://dl.acm.org/doi/10.5555/3489146.3489147)
+* [Multithreaded double queuing for balanced CPU-GPU memory copying, SAC '19](https://dl.acm.org/doi/10.1145/3297280.3297426)
+* [Efficient Memory Mapped File I/O for In-Memory File Systems, HotStorage '17](https://dl.acm.org/doi/10.5555/3154601.3154606)
+* [In-memory file system with efficient swap support for mobile smart devices, IEEE Transactions on Consumer Electronics 62](https://ieeexplore.ieee.org/document/7613194)
 
 ### Patents
 * Method and apparatus with data preloading, US19/202768
