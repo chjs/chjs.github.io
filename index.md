@@ -17,6 +17,7 @@ I received my Ph.D. in Electrical, Electronic, and Computer Engineering from [Su
 * Multithreaded double queuing for balanced CPU-GPU memory copying, _SAC '19_
 * Efficient Memory Mapped File I/O for In-Memory File Systems, _HotStorage '17_
 * In-memory file system with efficient swap support for mobile smart devices, _IEEE Transactions on Consumer Electronics 62_
+* Accelerating loops for coarse grained reconfigurable architectures using instruction extensions, _ACM RACS '11_ 🏆
 
 ### Patents
 * Method and apparatus with data preloading, US19/202768
