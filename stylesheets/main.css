@@ -12,10 +12,11 @@ h3 {
 }
 
 a {
+  color: #444;
   text-decoration: none;
 }
 
-.btn-xxs {
-  padding: 0.15rem 0.2rem;
-  font-size: 0.575rem;
+a:hover {
+  color: #222;
+  text-decoration: underline;
 }
