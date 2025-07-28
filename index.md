@@ -3,7 +3,7 @@ layout: default
 title: JUNGSIK CHOI
 ---
 
-<img src="images/profile.png" class="rounded-circle" alt="Cinque Terre">
+<img src="images/profile.png" class="rounded-circle mx-auto d-block" alt="Profile" width="300" height="300">
 
 # JUNGSIK CHOI
 ---
