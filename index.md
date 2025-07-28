@@ -3,7 +3,7 @@ layout: default
 title: JUNGSIK CHOI
 ---
 
-<img src="images/profile.png" class="rounded-circle mx-auto d-block shadow" alt="Profile" width="250" height="250">
+<img src="images/profile.png" class="rounded-circle mx-auto d-block shadow" alt="Profile" width="200" height="200">
 
 # JUNGSIK CHOI
 ---
