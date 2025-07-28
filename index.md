@@ -16,3 +16,4 @@ I received my Ph.D. in Electrical, Electronic, and Computer Engineering from Sun
 * [Electronic device and method with tensor management and prefetching, US18/776,471](https://patents.google.com/patent/US20250199857A1/en)
 * [Electronic device and method with efficient memory management, US18/776,471](https://patents.google.com/patent/US20250123971A1/en)
 * [Apparatus and method for adaptive checkpoint in intermittent computing, US12,197,286B2](https://patents.google.com/patent/US12197286B2/en)
+* [Method and apparatus with memory management based on memory group, US18/467,065](https://patents.google.com/patent/US20240256445A1/en)
