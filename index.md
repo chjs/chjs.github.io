@@ -32,4 +32,4 @@ I received my Ph.D. in Electrical, Electronic, and Computer Engineering from [Su
 
 
 ---
-Last Updated Date: July 28, 2025
+<div class="text-center">Last Updated Date: July 28, 2025</div>
