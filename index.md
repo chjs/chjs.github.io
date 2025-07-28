@@ -11,7 +11,7 @@ To design the world-class AI systems, I am keenly interested in everything acros
 I received my Ph.D. in Electrical, Electronic, and Computer Engineering from [Sungkyunkwan University (SKKU)](https://www.skku.edu/eng/) in 2019.
 
 ## 📖 Publications
-### Selected Papers
+### Papers
 * Libpubl: exploiting persistent user buffers as logs for write atomicity, _HotStorage '21_
 * Libnvmmio: Reconstructing Software IO Path with Failure-Atomic Memory-Mapped Interface, _USENIX ATC '20_
 * Multithreaded double queuing for balanced CPU-GPU memory copying, _SAC '19_
