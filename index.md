@@ -2,6 +2,9 @@
 layout: default
 title: JUNGSIK CHOI
 ---
+
+<img src="images/profile.png" class="rounded-circle" alt="Cinque Terre">
+
 # JUNGSIK CHOI
 ---
 ## 🎓 Biography
