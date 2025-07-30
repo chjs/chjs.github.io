@@ -16,7 +16,7 @@ I earned my Ph.D. in Electrical, Electronic, and Computer Engineering from [Sung
 More information about me can be found on [Google](https://g.co/kgs/mmyscwW).
 
 ## 📖 Publications
-### Papers
+### 📄 Papers
 * [Libpubl: exploiting persistent user buffers as logs for write atomicity, _HotStorage '21_](https://dl.acm.org/doi/10.1145/3465332.3470874)
 * [Libnvmmio: Reconstructing Software IO Path with Failure-Atomic Memory-Mapped Interface, _USENIX ATC '20_](https://www.usenix.org/conference/atc20/presentation/choi)
 * [Multithreaded double queuing for balanced CPU-GPU memory copying, _SAC '19_](https://dl.acm.org/doi/10.1145/3297280.3297426)
@@ -24,7 +24,7 @@ More information about me can be found on [Google](https://g.co/kgs/mmyscwW).
 * [In-memory file system with efficient swap support for mobile smart devices, _IEEE Transactions on Consumer Electronics 62_](https://ieeexplore.ieee.org/document/7613194)
 * [Accelerating loops for coarse grained reconfigurable architectures using instruction extensions, _ACM RACS '11_](https://dl.acm.org/doi/abs/10.1145/2103380.2103445) 🏆
 
-### Patents
+### 💡 Patents
 * Method and apparatus with data preloading, US19/202768
 * Device and method with reduction of cache line fetches, US19/259074
 * Device and method with single-level page table for obtaining physical addresses, US18/945080
