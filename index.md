@@ -7,7 +7,7 @@ title: JUNGSIK CHOI
 <img src="images/profile.png" class="rounded-circle mx-auto d-block shadow" alt="Profile" width="200" height="200">
 -->
 
-# JUNGSIK CHOI
+# JUNGSIK CHOI, Ph.D.
 ---
 ## 🎓 Biography
 My name is Jungsik Choi (Korean: 최정식). I am a system expert at the System Research Center of [Samsung Advanced Institute of Technology (SAIT)](https://www.sait.samsung.com/), where I focus on designing next-generation computer systems to enhance the performance of AI applications.
