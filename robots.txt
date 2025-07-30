@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://chjs.github.io/sitemap.xml
