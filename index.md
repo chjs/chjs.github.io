@@ -43,4 +43,4 @@ I earned my Ph.D. in Electrical, Electronic, and Computer Engineering from [Sung
 * [DBLP](https://dblp.org/pid/129/2811-1.html)
 
 ---
-<div class="text-center">Last Updated Date: July 30, 2025</div>
+<div class="text-center">Last Updated Date: August 5, 2025</div>
