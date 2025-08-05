@@ -40,6 +40,7 @@ More information about me can be found on [Google](https://g.co/kgs/mmyscwW).
 * [Google Scholar](https://scholar.google.com/citations?user=Z6eYynAAAAAJ&hl=en)
 * [LinkedIn](https://www.linkedin.com/in/chjs)
 * [ORCID](https://orcid.org/0000-0002-0462-2144)
+* [DBLP](https://dblp.org/pid/129/2811-1.html)
 
 ---
 <div class="text-center">Last Updated Date: July 30, 2025</div>
