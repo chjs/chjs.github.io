@@ -22,7 +22,7 @@ I earned my Ph.D. in Electrical, Electronic, and Computer Engineering from [Sung
 * [Multithreaded double queuing for balanced CPU-GPU memory copying, _SAC '19_](https://dl.acm.org/doi/10.1145/3297280.3297426)
 * [Efficient Memory Mapped File I/O for In-Memory File Systems, _HotStorage '17_](https://www.usenix.org/conference/hotstorage17/program/presentation/choi)
 * [In-memory file system with efficient swap support for mobile smart devices, _IEEE Transactions on Consumer Electronics 62_](https://ieeexplore.ieee.org/document/7613194)
-* [Accelerating loops for coarse grained reconfigurable architectures using instruction extensions, _ACM RACS '11_](https://dl.acm.org/doi/abs/10.1145/2103380.2103445) (🏆 Best Paper Award)
+* [Accelerating loops for coarse grained reconfigurable architectures using instruction extensions, _ACM RACS '11_](https://dl.acm.org/doi/abs/10.1145/2103380.2103445)
 
 ### Patents
 * Method and apparatus with data preloading, US19/202768
