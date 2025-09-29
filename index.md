@@ -30,7 +30,7 @@ I earned my Ph.D. in Electrical, Electronic, and Computer Engineering from [Sung
 * Device and method with single-level page table for obtaining physical addresses, US18/945080
 * [Electronic device and method with tensor management and prefetching, US18/776,471](https://patents.google.com/patent/US20250199857A1/en)
 * [Electronic device and method with efficient memory management, US18/776,471](https://patents.google.com/patent/US20250123971A1/en)
-* [Method and apparatus with memory management based on memory group, US12,417,174](https://patents.google.com/patent/US20240256445A1/en)🔖
+* [Method and apparatus with memory management based on memory group, US12,417,174](https://patents.google.com/patent/US12417174B2/en)🔖
 * [Apparatus and method for adaptive checkpoint in intermittent computing, US12,197,286](https://patents.google.com/patent/US12197286B2/en)🔖
 * [Method of handling page fault in nonvolatile main memory system,  US10,719,263](https://patents.google.com/patent/US10719263B2/en)🔖
 * [Memory mapping management method for nonvolatile main memory system, US10,185,654](https://patents.google.com/patent/US10185654B2/en)🔖
