@@ -38,6 +38,9 @@ You can find more about my work and publications [online](https://g.co/kgs/mmysc
 * [Memory mapping management method for nonvolatile main memory system, US10,185,654](https://patents.google.com/patent/US10185654B2/en)🔖
 * [Memory mapping method of nonvolatile memory system and system for providing the memory mapping method, US9,501,424](https://patents.google.com/patent/US9501424B2/en)🔖
 
+## 🪪 Certifications
+* System Expert, Joint Program by Samsung Electronics and [Seoul National University](https://en.snu.ac.kr/index.html), Nov. 2025
+
 ## 🌐 Links
 * [Google Scholar](https://scholar.google.com/citations?user=Z6eYynAAAAAJ&hl=en)
 * [LinkedIn](https://www.linkedin.com/in/chjs)
@@ -45,4 +48,4 @@ You can find more about my work and publications [online](https://g.co/kgs/mmysc
 * [DBLP](https://dblp.org/pid/129/2811-1.html)
 
 ---
-<div class="text-center">Last Updated Date: August 5, 2025</div>
+<div class="text-center">Last Updated Date: Nov. 2025</div>
