@@ -42,7 +42,7 @@ You can find more about my work and publications [online](https://g.co/kgs/mmysc
 ## 🪪 Certifications
 * System Expert, Joint Program by [Samsung Electronics](https://semiconductor.samsung.com/) and [Seoul National University (SNU)](https://en.snu.ac.kr/index.html), Nov. 2025
 
-## 🥇 Awards
+## 🏆 Awards
 * Best Presentation Award, KIISE, Dec. 2015
 * Best Paper Award, ACM RACS, Nov. 2011
 
