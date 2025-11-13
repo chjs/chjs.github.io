@@ -17,7 +17,6 @@ Before joining SAIT, I worked as a postdoctoral researcher at the [Electronics a
 I completed my Ph.D. in Electrical, Electronic, and Computer Engineering at SKKU in 2019 under the guidance and support of Prof. Hwansoo Han.
 You can find more about my work and publications [online](https://g.co/kgs/mmyscwW).
 
----
 
 ## 📖 Publications
 ### Papers
@@ -40,18 +39,12 @@ You can find more about my work and publications [online](https://g.co/kgs/mmysc
 * [Memory mapping management method for nonvolatile main memory system, US10,185,654](https://patents.google.com/patent/US10185654B2/en)🔖
 * [Memory mapping method of nonvolatile memory system and system for providing the memory mapping method, US9,501,424](https://patents.google.com/patent/US9501424B2/en)🔖
 
----
-
 ## 🪪 Certifications
 * System Expert, Joint Program by [Samsung Electronics](https://semiconductor.samsung.com/) and [Seoul National University (SNU)](https://en.snu.ac.kr/index.html), Nov. 2025
-
----
 
 ## 🥇 Awards
 * Best Presentation Award, KIISE, Dec. 2015
 * Best Paper Award, ACM RACS, Nov. 2011
-
----
 
 ## 🌐 Links
 * [Google Scholar](https://scholar.google.com/citations?user=Z6eYynAAAAAJ&hl=en)
