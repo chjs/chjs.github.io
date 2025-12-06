@@ -28,3 +28,8 @@ a:hover {
   color: #4682b4;
   text-decoration: underline;
 }
+
+.profile-img {
+  width: 180px;
+  border-radius: 50%;
+}
