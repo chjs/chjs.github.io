@@ -29,7 +29,17 @@ a:hover {
   text-decoration: underline;
 }
 
-.profile-img {
+.profile-wrapper {
   width: 180px;
-  border-radius: 50%;
+  height: 180px;          /* 정사각형 */
+  border-radius: 50%;     /* 원 */
+  overflow: hidden;       /* 바깥 잘라내기 */
+  margin: auto;           /* 가운데 정렬 */
+}
+
+.profile-wrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;      /* 핵심 */
+  object-position: center;/* 중앙 기준 crop */
 }
