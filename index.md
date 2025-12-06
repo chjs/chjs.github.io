@@ -7,7 +7,7 @@ title: JUNGSIK CHOI
 <img src="images/profile.png" class="rounded-circle mx-auto d-block shadow" alt="Profile" width="200" height="200">
 -->
 <div class="profile-wrapper">
-  <img src="/images/profile01.jpeg" alt="프로필 사진">
+  <img src="/images/profile00.png" alt="프로필 사진">
 </div>
 
 # JUNGSIK CHOI
