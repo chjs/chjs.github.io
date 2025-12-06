@@ -7,6 +7,8 @@ title: JUNGSIK CHOI
 <img src="images/profile.png" class="rounded-circle mx-auto d-block shadow" alt="Profile" width="200" height="200">
 -->
 
+<img src="/images/profile01.jpeg" class="profile-img">
+
 # JUNGSIK CHOI
 ---
 ## 🎓 Biography
