@@ -35,6 +35,9 @@ a:hover {
   border-radius: 50%;     /* 원 */
   overflow: hidden;       /* 바깥 잘라내기 */
   margin: auto;           /* 가운데 정렬 */
+  box-shadow:
+    0 4px 6px rgba(0, 0, 0, 0.10),
+    0 10px 25px rgba(0, 0, 0, 0.10);
 }
 
 .profile-wrapper img {
