@@ -53,5 +53,5 @@ a:hover {
 .email img {
   height: 1.2em;      /* 핵심 */
   width: auto;
-  vertical-align: -0.15em; /* 베이스라인 미세조정 */
+  vertical-align: -0.12em; /* 베이스라인 미세조정 */
 }
