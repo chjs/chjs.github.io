@@ -29,8 +29,8 @@ a:hover {
 }
 
 .profile-wrapper {
-  width: 180px;
-  height: 180px;          /* 정사각형 */
+  width: 150px;
+  height: 150px;          /* 정사각형 */
   border-radius: 50%;     /* 원 */
   overflow: hidden;       /* 바깥 잘라내기 */
   margin: auto;           /* 가운데 정렬 */
