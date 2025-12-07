@@ -47,7 +47,7 @@ You can find more about my work and publications [online](https://g.co/kgs/mmysc
 * [Memory mapping method of nonvolatile memory system and system for providing the memory mapping method, US9,501,424](https://patents.google.com/patent/US9501424B2/en)🔖
 
 
-## 🏫 Certifications
+## 📜 Certifications
 * System Expert, [Seoul National University (SNU)](https://en.snu.ac.kr/index.html), Nov. 2025
 
 
