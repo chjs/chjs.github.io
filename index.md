@@ -4,7 +4,9 @@ title: JUNGSIK CHOI, PhD
 ---
 
 <div class="profile-header">
-  <img src="/images/jungsikchoi.jpg" alt="profile">
+  <div class="profile-wrapper">
+    <img src="/images/jungsikchoi.jpg" alt="profile">
+  </div>
   <h1>Jungsik Choi</h1>
   <p class="affiliation">
     Staff Researcher<br>
