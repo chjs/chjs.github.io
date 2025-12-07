@@ -13,6 +13,9 @@ title: JUNGSIK CHOI, PhD
     Samsung Advanced Institute of Technology (SAIT)<br>
     Samsung Electronics
   </p>
+  <span class="email">
+    <img src="/images/email-samsung.svg" alt="Email">
+  </span>
 </div>
 
 ---
