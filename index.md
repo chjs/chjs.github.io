@@ -1,6 +1,6 @@
 ---
 layout: default
-title: JUNGSIK CHOI
+title: JUNGSIK CHOI, PhD
 ---
 
 <!--
