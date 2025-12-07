@@ -43,3 +43,7 @@ a:hover {
   object-fit: cover;
   transform: scale(1.15);
 }
+
+.profile-header {
+  text-align: center;
+}
