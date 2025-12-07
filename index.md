@@ -3,11 +3,16 @@ layout: default
 title: JUNGSIK CHOI, PhD
 ---
 
-<div class="profile-wrapper">
+<div class="profile-header">
   <img src="/images/jungsikchoi.jpg" alt="profile">
+  <h1>Jungsik Choi</h1>
+  <p class="affiliation">
+    Staff Researcher<br>
+    Samsung Advanced Institute of Technology (SAIT)<br>
+    Samsung Electronics
+  </p>
 </div>
 
-# JUNGSIK CHOI
 ---
 ## 🎓 Biography
 My name is Jungsik Choi (Korean: 최정식). I am a staff researcher at the AI System Platform of [Samsung Advanced Institute of Technology (SAIT)](https://www.sait.samsung.com/), where I focus on designing next-generation computer systems to enable and accelerate AI services.
