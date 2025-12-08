@@ -10,8 +10,8 @@ title: JUNGSIK CHOI, PhD
   <h1>Jungsik Choi</h1>
   <p class="affiliation">
     Staff Researcher<br>
-    Samsung Advanced Institute of Technology (SAIT)<br>
-    Samsung Electronics
+    AI System Platform
+    Samsung Advanced Institute of Technology (SAIT)
   </p>
   <span class="email">
     <img src="/images/email-samsung.svg" alt="Email">
