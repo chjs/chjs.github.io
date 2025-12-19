@@ -66,4 +66,4 @@ You can find more about my work and publications [online](https://g.co/kgs/mmysc
 * [DBLP](https://dblp.org/pid/129/2811-1.html)
 
 ---
-<div class="text-center">Last Updated Date: Nov. 2025</div>
+<div class="footer">Last Updated Date: Nov. 2025</div>
