@@ -55,3 +55,9 @@ a:hover {
   width: auto;
   vertical-align: -0.12em; /* 베이스라인 미세조정 */
 }
+
+.footer {
+  text-align: center;   /* text-center 효과 */
+  margin-top: 24px;     /* 위 여백 */
+  margin-bottom: 32px;  /* 아래 여백 */
+}
