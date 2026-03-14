@@ -7,11 +7,12 @@ title: JUNGSIK CHOI, PhD
   <div class="profile-wrapper">
     <img src="/images/jungsikchoi.jpg" alt="profile">
   </div>
-  <h1>Jungsik Choi</h1>
+  <h1>Jungsik Choi, Ph.D.</h1>
   <p class="affiliation">
     Staff Researcher<br>
     AI System Platform<br>
-    Samsung Advanced Institute of Technology (SAIT)
+    Samsung Advanced Institute of Technology (SAIT)<br>
+    Samsung Electronics
   </p>
   <span class="email">
     ✉️ <img src="/images/email-samsung.svg" alt="Email">
