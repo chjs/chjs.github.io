@@ -39,6 +39,7 @@ You can find more about my work and publications [online](https://g.co/kgs/mmysc
 * [Accelerating loops for coarse grained reconfigurable architectures using instruction extensions, _ACM RACS '11_](https://dl.acm.org/doi/abs/10.1145/2103380.2103445)
 
 ### Patents
+* Device and method with prompt normalization, US19/748588
 * Method and apparatus with data preloading, US19/202768
 * Device and method with reduction of cache line fetches, US19/259074
 * [Device and method with single-level page table for obtaining physical addresses, US18/945080](https://patents.google.com/patent/US20250328475A1/en)
@@ -67,4 +68,4 @@ You can find more about my work and publications [online](https://g.co/kgs/mmysc
 * [DBLP](https://dblp.org/pid/129/2811-1.html)
 
 ---
-<div class="footer">Last Updated Date: Nov. 2025</div>
+<div class="footer">Last Updated Date: Aug. 2026</div>
