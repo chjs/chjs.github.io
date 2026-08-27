@@ -41,7 +41,7 @@ You can find more about my work and publications [online](https://g.co/kgs/mmysc
 ### Patents
 * Device and method with prompt normalization, US19/748588
 * Method and apparatus with data preloading, US19/202768
-* Device and method with reduction of cache line fetches, US19/259074
+* [Device and method with reduction of cache line fetches, US19/259074](https://patents.google.com/patent/US20260140881A1/en)
 * [Device and method with single-level page table for obtaining physical addresses, US18/945080](https://patents.google.com/patent/US20250328475A1/en)
 * [Electronic device and method with tensor management and prefetching, US18/776,471](https://patents.google.com/patent/US20250199857A1/en)
 * [Electronic device and method with efficient memory management, US18/776,471](https://patents.google.com/patent/US20250123971A1/en)
